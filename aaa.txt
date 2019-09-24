@@ -1,4 +1,5 @@
 bbb
+cc
 aaa
 redis数据格式
 	string/list/set/zset/hash

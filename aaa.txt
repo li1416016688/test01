@@ -1,3 +1,4 @@
+aaa
 redis数据格式
 	string/list/set/zset/hash
 配置

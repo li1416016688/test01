@@ -1,0 +1,18 @@
+redis数据格式
+	string/list/set/zset/hash
+配置
+	修改bind/密码requirepass
+redis持久化
+	rdb aof
+redis淘汰策略
+	6种
+Jedis
+JedisPool
+JedisPoolConfig
+
+Spring整合
+
+
+
+Error response from daemon: OCI runtime create failed: container_linux.go:345: starting container process caused "process_linux.go:430: container init caused \"rootfs_linux.go:58: mounting \\\"/root/mysql/conf/my.cnf\\\" to rootfs \\\"/var/lib/docker/overlay2/b3e09c094c57b79f1d28aaf3a087f61611d1785905e1813cef36ed1119907654/merged\\\" at \\\"/var/lib/docker/overlay2/b3e09c094c57b79f1d28aaf3a087f61611d1785905e1813cef36ed1119907654/merged/etc/mysql/mysql.cnf\\\" caused \\\"not a directory\\\"\"": unknown: Are you trying to mount a directory onto a file (or vice-versa)? Check if the specified host path exists and is the expected type
+Error: failed to start containers: mysql2
